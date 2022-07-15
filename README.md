@@ -1,1 +1,1 @@
-# lc-247-timing-function
+# lc-247-timing_function
